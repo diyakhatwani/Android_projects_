@@ -236,9 +236,3 @@ This Android application demonstrates customized layouts and modern Android UI c
 
 ## Screenshot
 ![Assignment 10](screenshots/10.png)
-
----
-
-# Conclusion
-
-This repository demonstrates practical Android development concepts using Java and Android Studio. These assignments helped in understanding Android UI designing, RecyclerView implementation, database handling, fragments, notifications, navigation systems, event handling, GridView, DatePicker, TimePicker, and Android application development concepts.
